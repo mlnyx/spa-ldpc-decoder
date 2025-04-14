@@ -1,3 +1,5 @@
+# ldpc_generator.py
+
 import numpy as np
 import random
 
